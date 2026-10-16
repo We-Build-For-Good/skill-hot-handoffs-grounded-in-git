@@ -31,19 +31,19 @@ When the next agent takes over, it reads this prose and assumes it is factual. B
 
 ### For Claude Code
 ```bash
-git clone https://github.com/webuildforgood/skill-hot-handoffs-grounded-in-git.git ~/.claude/skills/hot-handoffs-grounded-in-git
+git clone https://github.com/We-Build-For-Good/skill-hot-handoffs-grounded-in-git.git ~/.claude/skills/hot-handoffs-grounded-in-git
 ```
 
 ### For Cursor
 ```bash
 mkdir -p .cursor/skills
-git clone https://github.com/webuildforgood/skill-hot-handoffs-grounded-in-git.git .cursor/skills/hot-handoffs-grounded-in-git
+git clone https://github.com/We-Build-For-Good/skill-hot-handoffs-grounded-in-git.git .cursor/skills/hot-handoffs-grounded-in-git
 ```
 
 ### For Antigravity / Open Agent Skills
 ```bash
 mkdir -p .agents/skills
-git clone https://github.com/webuildforgood/skill-hot-handoffs-grounded-in-git.git .agents/skills/hot-handoffs-grounded-in-git
+git clone https://github.com/We-Build-For-Good/skill-hot-handoffs-grounded-in-git.git .agents/skills/hot-handoffs-grounded-in-git
 ```
 
 ---
