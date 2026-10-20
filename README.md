@@ -9,7 +9,7 @@
 
 `hot-handoffs-grounded-in-git` is an operational protocol for multi-model AI software development teams (Claude Code, Cursor, Antigravity/Gemini, OpenAI Codex).
 
-It eliminates the most expensive failure mode in multi-agent workflows: **conversational context loss and hallucinated progress between shifts**.
+It targets the most expensive failure mode in multi-agent workflows: **conversational context loss and hallucinated progress between shifts**.
 
 ---
 

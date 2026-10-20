@@ -1,10 +1,10 @@
 ---
 name: hot-handoffs-grounded-in-git
-description: Multi-model AI handoff protocol across frontier models (Claude, Gemini, Codex, ChatGPT) where every claim must be grounded in an exact git commit hash, diff, or test output. Eliminates conversational hallucinations, unverified "done" claims, and context loss between AI shifts.
+description: Multi-model AI handoff protocol across frontier models (Claude, Gemini, Codex, ChatGPT) where every claim must be grounded in an exact git commit hash, diff, or test output. Stops unverified "done" claims and lost context from passing between AI shifts.
 license: MIT
 metadata:
   author: We Build for Good
-  version: "1.0.0"
+  version: "1.1.0"
 ---
 
 # Hot Handoffs Grounded in Git: Multi-Model Engineering Protocol
